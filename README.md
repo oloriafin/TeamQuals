@@ -1,3 +1,18 @@
+	
+Google Collab Instructions: # TeamQuals
+
+[![ Click to Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oloriafin/TeamQuals/blob/main/Project-Del-3-TeamQuals.ipynb)
+
+⚡ **Quick Start**  
+Click the badge above to open the notebook in Google Colab.  
+
+
+📂 **Dataset**  
+This project uses the [GitBugs dataset](https://www.kaggle.com/datasets/av9ash/gitbugs) (hosted on Kaggle). 
+Navigate to the firefox folder and download Firefox_bugs_csv
+- Download the dataset from Kaggle and place it in your working directory (Colab or local). 
+
+
 
 # Text Preprocessing: Tokenization, Stopword Removal & Stemming
 
