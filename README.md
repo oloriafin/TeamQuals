@@ -4,7 +4,7 @@
 #Quick Start ⚡
 Click the badge below to open the notebook in Google Colab.  
 
-[![ Click to Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oloriafin/TeamQuals/blob/main/Project-Del-5-TeamQuals.ipynb)
+[![ Click to Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oloriafin/TeamQuals/blob/main/Project_Del_5_TeamQuals.ipynb)
 
 
 # Dataset  
