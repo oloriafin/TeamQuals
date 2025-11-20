@@ -1,7 +1,7 @@
 	
 TeamQuals
 
-#Overview
+# Overview
 
 This repository contains a complete benchmarking suite comparing:
 	•	Deep Learning:
@@ -26,27 +26,27 @@ The suite is implemented in Python using Google Colab, PyTorch, scikit-learn, Tr
 
 🚀 Run the Notebook in Google Colab
 
-#1. Open the Notebook
+# 1. Open the Notebook
 
 Click the badge below to open the notebook directly in Google Colab:
 
 [![ Click to Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oloriafin/TeamQuals/blob/main/Project_Del_5_TeamQuals.ipynb)
 
-#2. Enable GPU (Required for BERT to run fast)
+# 2. Enable GPU (Required for BERT to run fast)
 	1.	Go to: Runtime → Change runtime type
 	2.	Set Hardware Accelerator = GPU
 	3.	Click Save
 
-#3. Upload the Dataset
+# 3. Upload the Dataset
 
 The notebook expects: Firefox_bugs.csv
 
 Dataset  
 This project uses the [GitBugs dataset](https://www.kaggle.com/datasets/av9ash/gitbugs) (hosted on Kaggle). 
 Navigate to the firefox folder and download Firefox_bugs_csv
-- Download the dataset from Kaggle and place it in your working directory (Colab or local). 
+-  Download the dataset from Kaggle and place it in your working directory (Colab or local). 
 
-#4. Run the Notebook
+# 4. Run the Notebook
 
 You have two options:
 
@@ -56,7 +56,7 @@ Option A — Run All
 Option B — Run step-by-step (recommended)
 Run each cell from top to bottom so you can observe preprocessing, model training, and outputs.\
 
-#5. What the Notebook Does
+# 5. What the Notebook Does
 
 	1. Data Cleaning
 		•	Remove duplicate bug reports
@@ -93,7 +93,7 @@ Run each cell from top to bottom so you can observe preprocessing, model trainin
 	•	Precision/Recall/F1
 	•	Predictions saved to CSV
 
-#6. Output Files Automatically Generated
+# 6. Output Files Automatically Generated
 
 For each model:
 	•	*_predictions.csv
